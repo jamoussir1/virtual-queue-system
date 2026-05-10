@@ -53,14 +53,15 @@ Then open: **http://localhost:8000**
 ---
 
 ## 🔑 Demo Login Accounts
-| Role     | Email                | Password   |
-|----------|----------------------|------------|
-| Admin    | admin@esprit.tn      | password   |
-| Agent    | sami@esprit.tn       | password   |
-| Agent    | nour@esprit.tn       | password   |
-| Customer | ines@mail.com        | password   |
-| Customer | ahmed@mail.com       | password   |
-| Customer | hajer@mail.com       | password   |
+| Role     | Email                    | Password |
+|----------|--------------------------|----------|
+| Admin    | admin@virtualqueue.tn    | password |
+| Agent    | yasmine@virtualqueue.tn  | password |
+| Agent    | karim@virtualqueue.tn    | password |
+| Customer | rafaa.jamoussi@esprit.tn | password |
+| Customer | aziz@mail.com            | password |
+| Customer | omar@mail.com            | password |
+| Customer | rami@mail.com            | password |
 
 ---
 
