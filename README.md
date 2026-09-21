@@ -1,3 +1,4 @@
+![CI](https://github.com/jamoussir1/virtual-queue-system/actions/workflows/ci.yml/badge.svg)
 # 🎟 Virtual Queue Management System
 ### ESPRIT School of Business — 2 LBC-BIS — 2025/2026
 
