@@ -1,4 +1,13 @@
+
 ![CI](https://github.com/jamoussir1/virtual-queue-system/actions/workflows/ci.yml/badge.svg)
+
+🔗 **Live demo:** https://virtual-queue-system-production.up.railway.app
+
+Demo accounts (password: `password`):
+- Admin: admin@esprit.tn
+- Agent: sami@esprit.tn
+- Customer: ines@mail.com
+
 # 🎟 Virtual Queue Management System
 ### ESPRIT School of Business — 2 LBC-BIS — 2025/2026
 
